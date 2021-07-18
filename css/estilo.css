@@ -125,8 +125,10 @@ input{
 	.banner img{
 		display: flex;
 		margin: auto;
-		max-width: 400px;
+		max-width: 350px;
 		max-height: 200px;
+		margin-top: 20px;
+		margin-bottom: 20px;
 	}
 	.formulario{
 		margin-bottom: 20px;
